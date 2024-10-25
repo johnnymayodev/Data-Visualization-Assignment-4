@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Data-Visualization-Assignment-3/static/css/main.a12b949f.css",
+    "main.js": "/Data-Visualization-Assignment-3/static/js/main.13c3c5af.js",
+    "static/js/453.a6a97343.chunk.js": "/Data-Visualization-Assignment-3/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Data-Visualization-Assignment-3/index.html",
+    "main.a12b949f.css.map": "/Data-Visualization-Assignment-3/static/css/main.a12b949f.css.map",
+    "main.13c3c5af.js.map": "/Data-Visualization-Assignment-3/static/js/main.13c3c5af.js.map",
+    "453.a6a97343.chunk.js.map": "/Data-Visualization-Assignment-3/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12b949f.css",
+    "static/js/main.13c3c5af.js"
+  ]
+}
